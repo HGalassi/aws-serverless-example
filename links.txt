@@ -1,0 +1,10 @@
+https://us-east-2.console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks?filteringText=&filteringStatus=active&viewNested=true&hideStacks=false
+https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/horizontalFunc?newFunction=true&tab=configuration
+https://www.reddit.com/r/aws/comments/8kf71s/lambda_tcp_event_driven/
+https://s3.console.aws.amazon.com/s3/home?region=us-east-2#
+https://nordicapis.com/the-benefits-of-a-serverless-api-backend/
+https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks?filteringText=&filteringStatus=active&viewNested=true&hideStacks=false&stackId=
+https://console.aws.amazon.com/iam/home?nc2=h_m_sc#/security_credentials
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
+https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/aws-resource-lambda-function.html
+https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1&stackId=arn:aws:cloudformation:us-east-1:191765138346:stack/candidate-service-dev/2f007d80-d133-11ea-a4fa-0e69ad9c0ded&action=changeset
