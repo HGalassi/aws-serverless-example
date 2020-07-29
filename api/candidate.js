@@ -113,3 +113,5 @@ const candidateInfo = (fullname, email, experience) => {
         updatedAt: timestamp,
     };
 };
+
+//teste
